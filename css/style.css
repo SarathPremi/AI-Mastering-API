@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(238, 155, 204);
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+#breedSelect {
+    width: 200px;
+    margin-right: 15px;
+}
+
+#dogContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#dogContainer img {
+    width: 100%;
+    max-width: 200px;
+    margin-bottom: 10px;
+}
